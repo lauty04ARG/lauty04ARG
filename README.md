@@ -54,7 +54,7 @@
       <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
     </a> <br> <br>
 
-<a href="https://github.com/epicestudar"><img alt="Vinícius Granço Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lauty04ARG&bg_color=000000&color=39c63c&line=0ea032&point=ffffff&area=true&hide_border=true" /></a>
+<a href="https://github.com/lauty04ARG"><img alt="Vinícius Granço Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lauty04ARG&bg_color=000000&color=39c63c&line=0ea032&point=ffffff&area=true&hide_border=true" /></a>
 </details>
 
 ## 📌 Goals for 2025
