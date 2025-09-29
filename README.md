@@ -9,7 +9,7 @@
   
   
   <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4CCA00&center=true&vCenter=true&width=435&lines=Ing.+Sistemas+de+Informacion+en+UTN;Construyendo+ideas%2C+linea+por+linea" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4CCA00&center=true&vCenter=true&width=435&lines=Ing.+Sistemas+de+Informacion+en+UTN;Si+se+puede+pensar%2C+se+puede+codear" alt="Typing SVG" /></a>
   </p> <br>
 
 ## 🧠 About Me
