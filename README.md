@@ -17,7 +17,7 @@
 - 🎓 Estudiante de Ingeniería en Sistemas en Argentina  
 - 💻 Apasionado por el desarrollo Full Stack: frontend dinámico + backend sólido  
 - 🧲 Me fascina entender cómo funcionan las cosas  
-- 🐱 Compañero de bigotes, mi gato gris con alma de hacker  
+- 🐱 Compañero de Huma, mi gata gris con alma de hacker  
 - 🚀 En constante aprendizaje de nuevas tecnologías y buenas prácticas
 
 ---
@@ -57,13 +57,13 @@
 <a href="https://github.com/lauty04ARG"><img alt="Vinícius Granço Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lauty04ARG&bg_color=000000&color=39c63c&line=0ea032&point=ffffff&area=true&hide_border=true" /></a>
 </details>
 
-## 📌 Goals for 2025
+## 📌 Goals for Diciembre 2025
 
 - ✅ Subir mi primer proyecto completo  
 - ✅ Colaborar en un proyecto open source  
 - ✅ Aprender Docker y CI/CD  
 - ✅ Publicar artículos técnicos  
-- ✅ Hacer que Bigotes aprenda Git 🐱
+- ✅ Hacer que Huma aprenda Git 🐱
 
 ---
 
